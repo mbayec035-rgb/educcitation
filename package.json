@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "package-lock.json": "^1.0.0"
+  },
+  "name": "educcitation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

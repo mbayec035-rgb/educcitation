@@ -1,0 +1,8 @@
+# Dépendances Node.js
+node_modules/
+
+# Variables d'environnement (ne contient JAMAIS de secret en clair sur Git)
+.env
+
+# Fichiers générés
+npm-debug.log*
